@@ -10,11 +10,6 @@ It demonstrates the entire process, from data cleaning to visualization, using P
 - Matplotlib
 - Seaborn
 
-To install required libraries:
-```bash
-conda install pandas matplotlib seaborn
-
-
 ## Features
 1. **Data Cleaning**:
    - Handles missing values and removes duplicates.
