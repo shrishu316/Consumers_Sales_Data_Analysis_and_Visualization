@@ -12,7 +12,7 @@ It demonstrates the entire process, from data cleaning to visualization, using P
 
 To install required libraries:
 ```bash
-conda install pandas matplotlib seaborn
+conda install pandas matplotlib seaborn .
 
 ## Features
 1. **Data Cleaning**:
