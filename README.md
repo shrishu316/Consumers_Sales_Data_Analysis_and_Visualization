@@ -4,6 +4,16 @@
 This project is focused on analyzing and visualizing a sales dataset. 
 It demonstrates the entire process, from data cleaning to visualization, using Python libraries such as `Pandas`, `Matplotlib`, and `Seaborn`.
 
+## Requirements
+- Python 3.7+
+- Pandas
+- Matplotlib
+- Seaborn
+
+To install required libraries:
+```bash
+conda install pandas matplotlib seaborn
+
 ## Features
 1. **Data Cleaning**:
    - Handles missing values and removes duplicates.
@@ -25,13 +35,3 @@ It demonstrates the entire process, from data cleaning to visualization, using P
 
 4. **Results**:
       ![sales_dashboard](https://github.com/user-attachments/assets/335f608f-7550-4688-8cc6-593fe81c80d1)
-
-## Requirements
-- Python 3.7+
-- Pandas
-- Matplotlib
-- Seaborn
-
-To install required libraries:
-```bash
-conda install pandas matplotlib seaborn
